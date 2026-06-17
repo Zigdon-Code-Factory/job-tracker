@@ -158,23 +158,54 @@ const COLUMNS = [
 const STATUS_LABELS = {};
 COLUMNS.forEach(c => STATUS_LABELS[c.id] = c.icon + ' ' + c.label);
 
-let jobs = JSON.parse(localStorage.getItem(STORAGE_KEY) || '[]');
-// Migrate: ensure all jobs have history array
-jobs.forEach(j => {
-  if (!j.history) {
-    j.history = [{ status: j.status, date: j.dateAdded || new Date().toISOString().slice(0,10), note: 'Initial entry' }];
-  }
-  if (!j.resume) j.resume = '';
-  if (!j.contact) j.contact = '';
-  if (!j.source) j.source = '';
-});
-save();
-
+let jobs = [];
 let searchQuery = '';
 let draggedId = null;
 let activityFilterDays = 0; // 0 = no limit
 
-function save() { localStorage.setItem(STORAGE_KEY, JSON.stringify(jobs)); }
+function migrateJobs(list) {
+  list.forEach(j => {
+    if (!j.history) {
+      j.history = [{ status: j.status, date: j.dateAdded || new Date().toISOString().slice(0,10), note: 'Initial entry' }];
+    }
+    if (!j.resume) j.resume = '';
+    if (!j.contact) j.contact = '';
+    if (!j.source) j.source = '';
+  });
+  return list;
+}
+
+async function loadJobs() {
+  const localJobs = JSON.parse(localStorage.getItem(STORAGE_KEY) || '[]');
+  try {
+    const res = await fetch('/api/jobs');
+    if (!res.ok) throw new Error('API unavailable');
+    const apiJobs = await res.json();
+    jobs = migrateJobs(Array.isArray(apiJobs) ? apiJobs : []);
+    // First run after API upgrade: seed server from browser localStorage if server is empty.
+    if (!jobs.length && localJobs.length) {
+      jobs = migrateJobs(localJobs);
+      await save();
+    }
+  } catch (e) {
+    jobs = migrateJobs(localJobs);
+    console.warn('Using local browser storage because API is unavailable:', e);
+  }
+  render();
+}
+
+async function save() {
+  localStorage.setItem(STORAGE_KEY, JSON.stringify(jobs));
+  try {
+    await fetch('/api/jobs', {
+      method: 'PUT',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify(jobs)
+    });
+  } catch (e) {
+    console.warn('Saved locally only; API persistence failed:', e);
+  }
+}
 
 function calcMatch(tags) {
   if (!tags || !tags.length) return 0;
@@ -488,7 +519,7 @@ window.deleteJob = function(id) {
   render();
 };
 
-render();
+loadJobs();
 </script>
 </body>
 </html>
