@@ -302,6 +302,7 @@ function render() {
       <div class="header-right">
         <select class="activity-filter" onchange="activityFilterDays=parseInt(this.value);render()">
           <option value="0"${activityFilterDays===0?' selected':''}>All jobs</option>
+          <option value="7"${activityFilterDays===7?' selected':''}>Last week</option>
           <option value="30"${activityFilterDays===30?' selected':''}>Last 30 days</option>
           <option value="60"${activityFilterDays===60?' selected':''}>Last 60 days</option>
           <option value="90"${activityFilterDays===90?' selected':''}>Last 90 days</option>
