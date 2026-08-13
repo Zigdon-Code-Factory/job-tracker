@@ -182,10 +182,15 @@ async function loadJobs() {
     if (!res.ok) throw new Error('API unavailable');
     const apiJobs = await res.json();
     jobs = migrateJobs(Array.isArray(apiJobs) ? apiJobs : []);
-    // First run after API upgrade: seed server from browser localStorage if server is empty.
-    if (!jobs.length && localJobs.length) {
-      jobs = migrateJobs(localJobs);
-      await save();
+    // Merge any browser-only records into the API after a server restart.
+    // This avoids losing older entries when the server already has newer jobs.
+    if (localJobs.length) {
+      const apiIds = new Set(jobs.map(j => j.id));
+      const browserOnly = migrateJobs(localJobs).filter(j => !apiIds.has(j.id));
+      jobs = jobs.concat(browserOnly);
+      if (browserOnly.length) {
+        await save();
+      }
     }
   } catch (e) {
     jobs = migrateJobs(localJobs);
