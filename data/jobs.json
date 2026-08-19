@@ -1,5 +1,235 @@
 [
   {
+    "company": "Valon",
+    "contact": "",
+    "dateAdded": "2026-08-19",
+    "history": [
+      {
+        "date": "2026-08-19",
+        "note": "Zack explicitly confirmed the application was successfully submitted.",
+        "status": "applied"
+      }
+    ],
+    "id": "ashby-32fc3fab-87e3-4fed-9b92-db050da6fa40",
+    "location": "",
+    "notes": "Application submission explicitly confirmed by Zack in the job-tracker channel.",
+    "priority": "high",
+    "resume": "versions/Engineering Manager, Infrastructure - Platform/Engineering Manager, Cloud Foundations.docx",
+    "salary": "",
+    "source": "Ashby",
+    "status": "applied",
+    "tags": [],
+    "title": "Engineering Manager, Platform - Cloud Infrastructure",
+    "url": "https://jobs.ashbyhq.com/valon/32fc3fab-87e3-4fed-9b92-db050da6fa40"
+  },
+  {
+    "company": "Bright Machines",
+    "contact": "",
+    "dateAdded": "2026-08-19",
+    "history": [
+      {
+        "date": "2026-08-19",
+        "note": "Zack explicitly confirmed the application was successfully submitted.",
+        "status": "applied"
+      }
+    ],
+    "id": "lever-52ac5007-f02f-409e-a5a7-5768bcdd8af8",
+    "location": "",
+    "notes": "Application submission explicitly confirmed by Zack in the job-tracker channel.",
+    "priority": "high",
+    "resume": "versions/Platform Engineer/Senior Platform Engineer.docx",
+    "salary": "",
+    "source": "Lever",
+    "status": "applied",
+    "tags": [],
+    "title": "Senior Platform Engineer",
+    "url": "https://jobs.lever.co/brightmachines/52ac5007-f02f-409e-a5a7-5768bcdd8af8"
+  },
+  {
+    "company": "Loft Orbital Solutions",
+    "contact": "",
+    "dateAdded": "2026-08-19",
+    "history": [
+      {
+        "date": "2026-08-19",
+        "note": "Zack explicitly confirmed the application was successfully submitted.",
+        "status": "applied"
+      }
+    ],
+    "id": "lever-3ae5c3e3-c1e0-4311-83b5-0b6cea03b390",
+    "location": "",
+    "notes": "Application submission explicitly confirmed by Zack in the job-tracker channel.",
+    "priority": "high",
+    "resume": "versions/Cloud Infrastructure Engineer - Architect/Senior Cloud Infrastructure Development Engineer.docx",
+    "salary": "",
+    "source": "Lever",
+    "status": "applied",
+    "tags": [],
+    "title": "Senior Cloud Infrastructure Engineer",
+    "url": "https://jobs.lever.co/loftorbital/3ae5c3e3-c1e0-4311-83b5-0b6cea03b390"
+  },
+  {
+    "company": "Liatrio",
+    "contact": "",
+    "dateAdded": "2026-08-19",
+    "history": [
+      {
+        "date": "2026-08-19",
+        "note": "Zack explicitly confirmed the application was successfully submitted.",
+        "status": "applied"
+      }
+    ],
+    "id": "lever-460b92ff-7078-4c7b-9362-49fc29bba70c",
+    "location": "",
+    "notes": "Application submission explicitly confirmed by Zack in the job-tracker channel.",
+    "priority": "high",
+    "resume": "versions/Platform Engineer/Senior Platform Engineer.docx",
+    "salary": "",
+    "source": "Lever",
+    "status": "applied",
+    "tags": [],
+    "title": "Senior Platform Engineer",
+    "url": "https://jobs.lever.co/liatrio/460b92ff-7078-4c7b-9362-49fc29bba70c"
+  },
+  {
+    "company": "Andromeda Cluster",
+    "contact": "",
+    "dateAdded": "2026-08-19",
+    "history": [
+      {
+        "date": "2026-08-19",
+        "note": "Zack explicitly confirmed the application was successfully submitted.",
+        "status": "applied"
+      }
+    ],
+    "id": "ashby-c0129afa-ddfb-47e1-9968-b3dbf27b5d55",
+    "location": "",
+    "notes": "Application submission explicitly confirmed by Zack in the job-tracker channel.",
+    "priority": "high",
+    "resume": "output/pdf/Senior DevOps-SRE Engineer.pdf",
+    "salary": "",
+    "source": "Ashby",
+    "status": "applied",
+    "tags": [],
+    "title": "Senior Site Reliability Engineer, AI Infrastructure",
+    "url": "https://jobs.ashbyhq.com/andromeda/c0129afa-ddfb-47e1-9968-b3dbf27b5d55"
+  },
+  {
+    "company": "Istari Digital",
+    "contact": "",
+    "dateAdded": "2026-08-19",
+    "history": [
+      {
+        "date": "2026-08-19",
+        "note": "Zack explicitly confirmed the application was successfully submitted.",
+        "status": "applied"
+      }
+    ],
+    "id": "lever-767d30c4-b9ce-4bdd-8aa5-50f68cf1b469",
+    "location": "",
+    "notes": "Application submission explicitly confirmed by Zack in the job-tracker channel.",
+    "priority": "high",
+    "resume": "versions/Platform Engineer/Senior Platform Engineer.docx",
+    "salary": "",
+    "source": "Lever",
+    "status": "applied",
+    "tags": [],
+    "title": "Sr. Platform Engineer (Integrations Platform)",
+    "url": "https://jobs.lever.co/istaridigital.ai/767d30c4-b9ce-4bdd-8aa5-50f68cf1b469"
+  },
+  {
+    "company": "Alembic",
+    "contact": "",
+    "dateAdded": "2026-08-19",
+    "history": [
+      {
+        "date": "2026-08-19",
+        "note": "Zack explicitly confirmed the application was successfully submitted.",
+        "status": "applied"
+      }
+    ],
+    "id": "ashby-69f1b1e2-4231-4c5e-b070-07df29fd3899",
+    "location": "",
+    "notes": "Application submission explicitly confirmed by Zack in the job-tracker channel.",
+    "priority": "high",
+    "resume": "output/pdf/Senior DevOps-SRE Engineer.pdf",
+    "salary": "",
+    "source": "Ashby",
+    "status": "applied",
+    "tags": [],
+    "title": "Senior Site Reliability Engineer",
+    "url": "https://jobs.ashbyhq.com/alembic/69f1b1e2-4231-4c5e-b070-07df29fd3899"
+  },
+  {
+    "company": "Gamma",
+    "contact": "",
+    "dateAdded": "2026-08-19",
+    "history": [
+      {
+        "date": "2026-08-19",
+        "note": "Zack explicitly confirmed the application was successfully submitted.",
+        "status": "applied"
+      }
+    ],
+    "id": "ashby-365c8133-e9c1-4bcb-b8f1-975d96115503",
+    "location": "",
+    "notes": "Application submission explicitly confirmed by Zack in the job-tracker channel.",
+    "priority": "high",
+    "resume": "output/pdf/Senior DevOps-SRE Engineer.pdf",
+    "salary": "",
+    "source": "Ashby",
+    "status": "applied",
+    "tags": [],
+    "title": "Site Reliability Engineer",
+    "url": "https://jobs.ashbyhq.com/gamma/365c8133-e9c1-4bcb-b8f1-975d96115503"
+  },
+  {
+    "company": "Thinking Machines Lab",
+    "contact": "",
+    "dateAdded": "2026-08-19",
+    "history": [
+      {
+        "date": "2026-08-19",
+        "note": "Zack explicitly confirmed the application was successfully submitted.",
+        "status": "applied"
+      }
+    ],
+    "id": "ashby-1161c2d5-17a1-41cb-a2c8-5558d5e42acb",
+    "location": "",
+    "notes": "Application submission explicitly confirmed by Zack in the job-tracker channel.",
+    "priority": "high",
+    "resume": "versions/Engineering Manager, Infrastructure - Platform/Engineering Leader, Infrastructure.docx",
+    "salary": "",
+    "source": "Ashby",
+    "status": "applied",
+    "tags": [],
+    "title": "Engineering Manager",
+    "url": "https://jobs.ashbyhq.com/ThinkingMachines/1161c2d5-17a1-41cb-a2c8-5558d5e42acb"
+  },
+  {
+    "company": "Istari Digital",
+    "contact": "",
+    "dateAdded": "2026-08-19",
+    "history": [
+      {
+        "date": "2026-08-19",
+        "note": "Zack explicitly confirmed the application was successfully submitted.",
+        "status": "applied"
+      }
+    ],
+    "id": "lever-8a884208-fd14-46e7-89d9-00c6f91eba07",
+    "location": "",
+    "notes": "Application submission explicitly confirmed by Zack in the job-tracker channel.",
+    "priority": "high",
+    "resume": "versions/Platform Engineer/Senior Platform Engineer.docx",
+    "salary": "",
+    "source": "Lever",
+    "status": "applied",
+    "tags": [],
+    "title": "Sr. Platform Engineer",
+    "url": "https://jobs.lever.co/istaridigital.ai/8a884208-fd14-46e7-89d9-00c6f91eba07"
+  },
+  {
     "company": "Pano AI",
     "contact": "Pano AI Talent Team",
     "dateAdded": "2026-08-17",
