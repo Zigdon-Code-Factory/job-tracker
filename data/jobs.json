@@ -345,16 +345,21 @@
         "date": "2026-08-13",
         "note": "Application submitted and verified by Zack; resume basis was Infrastructure Engineer.docx, with Wellfound submitting the current profile.",
         "status": "applied"
+      },
+      {
+        "date": "2026-08-19",
+        "note": "Convex sent a generic rejection stating there was no fit for its current hiring needs; no specific role was named.",
+        "status": "rejected"
       }
     ],
     "id": "74588e769c60",
     "location": "",
-    "notes": "Application submission explicitly confirmed and verified by Zack. Resume basis: Infrastructure Engineer.docx; Wellfound submitted the current profile.",
+    "notes": "Application submission explicitly confirmed and verified by Zack. Resume basis: Infrastructure Engineer.docx; Wellfound submitted the current profile. Convex sent a generic rejection on 2026-08-19 stating there was no fit for its current hiring needs; no specific role was named.",
     "priority": "high",
     "resume": "Infrastructure Engineer.docx",
     "salary": "",
     "source": "Wellfound",
-    "status": "applied",
+    "status": "rejected",
     "tags": [],
     "title": "Software Engineer, Infra/Systems",
     "url": "https://wellfound.com/jobs/3352270-software-engineer-infra-systems"
@@ -899,16 +904,21 @@
         "date": "2026-08-13",
         "note": "Application submitted and verified by Zack.",
         "status": "applied"
+      },
+      {
+        "date": "2026-08-19",
+        "note": "Convex sent a generic rejection stating there was no fit for its current hiring needs; no specific role was named.",
+        "status": "rejected"
       }
     ],
     "id": "d94a23d12edd",
     "location": "",
-    "notes": "Application submission explicitly confirmed and verified by Zack in the job-tracker channel.",
+    "notes": "Application submission explicitly confirmed and verified by Zack in the job-tracker channel. Convex sent a generic rejection on 2026-08-19 stating there was no fit for its current hiring needs; no specific role was named.",
     "priority": "high",
     "resume": "",
     "salary": "",
     "source": "Wellfound",
-    "status": "applied",
+    "status": "rejected",
     "tags": [],
     "title": "Software Engineer, API Platform",
     "url": "https://wellfound.com/jobs/3359025-software-engineer-api-platform"
