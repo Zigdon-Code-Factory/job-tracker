@@ -1,5 +1,53 @@
 [
   {
+    "company": "Calendly",
+    "contact": "",
+    "dateAdded": "2026-08-18",
+    "history": [
+      {
+        "date": "2026-08-18",
+        "note": "Job URL shared by Zack as a potential lead; saved only, application not submitted.",
+        "status": "saved"
+      },
+      {
+        "date": "2026-08-18",
+        "note": "Application submission explicitly confirmed by Zack.",
+        "status": "applied"
+      },
+      {
+        "date": "2026-08-20",
+        "note": "Rejection received: Calendly chose to move forward with other candidates.",
+        "status": "rejected"
+      }
+    ],
+    "id": "da16e9e17d44",
+    "location": "Remote — United States",
+    "notes": "Application submission explicitly confirmed by Zack on 2026-08-18. Staff role building a self-service infrastructure platform and cloud-native developer tooling, with deep hands-on Go and Kubernetes API expertise. Requires 10+ years in cloud infrastructure or software development, 4+ years leading technical projects, Kubernetes controllers/operators, highly available systems, Linux, GCP, distributed systems, Datadog, and on-call participation. No immigration sponsorship; some states are ineligible. Rejection received on 2026-08-20; Calendly chose to move forward with other candidates.",
+    "priority": "medium",
+    "resume": "",
+    "salary": "$238,968–$347,488 by geographic tier + equity and benefits",
+    "source": "Calendly Careers / Greenhouse",
+    "status": "rejected",
+    "tags": [
+      "Platform Engineering",
+      "Staff Engineer",
+      "Go",
+      "Kubernetes API",
+      "Kubernetes Operators",
+      "GCP",
+      "Linux",
+      "Distributed Systems",
+      "Datadog",
+      "Developer Platform",
+      "Technical Leadership",
+      "Remote",
+      "10+ Years",
+      "No Sponsorship"
+    ],
+    "title": "Staff Platform Engineer",
+    "url": "https://job-boards.greenhouse.io/calendly/jobs/8628979002"
+  },
+  {
     "company": "Socket",
     "contact": "",
     "dateAdded": "2026-08-20",
