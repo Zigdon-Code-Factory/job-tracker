@@ -2032,16 +2032,21 @@
         "date": "2026-08-13",
         "note": "Application submission explicitly confirmed and verified",
         "status": "applied"
+      },
+      {
+        "date": "2026-08-20",
+        "note": "Rejection received: MEDvidi chose not to move forward with the candidacy.",
+        "status": "rejected"
       }
     ],
     "id": "87f485ea8063",
     "location": "",
-    "notes": "Application submission explicitly confirmed and verified.",
+    "notes": "Application submission explicitly confirmed and verified. Rejection received on 2026-08-20; MEDvidi chose not to move forward with the candidacy.",
     "priority": "high",
     "resume": "",
     "salary": "",
     "source": "Wellfound",
-    "status": "applied",
+    "status": "rejected",
     "tags": [],
     "title": "Staff DevOps Engineer",
     "url": "https://wellfound.com/jobs/4550765-staff-devops-engineer"
