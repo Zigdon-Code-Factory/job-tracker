@@ -551,16 +551,21 @@
         "date": "2026-08-13",
         "note": "Application submitted and verified by Zack; resume basis was Lead Site Reliability Engineer.docx via the Wellfound profile.",
         "status": "applied"
+      },
+      {
+        "date": "2026-08-20",
+        "note": "Rejection received: Altinity chose not to move forward with the candidacy.",
+        "status": "rejected"
       }
     ],
     "id": "41c8859d255e",
     "location": "",
-    "notes": "Application submission explicitly confirmed and verified by Zack. Resume basis: Lead Site Reliability Engineer.docx via Wellfound profile.",
+    "notes": "Application submission explicitly confirmed and verified by Zack. Resume basis: Lead Site Reliability Engineer.docx via Wellfound profile. Rejection received on 2026-08-20; Altinity chose not to move forward with the candidacy.",
     "priority": "high",
     "resume": "Lead Site Reliability Engineer.docx",
     "salary": "",
     "source": "Wellfound",
-    "status": "applied",
+    "status": "rejected",
     "tags": [],
     "title": "Cloud Service Site Reliability Engineer (SRE)",
     "url": "https://wellfound.com/jobs/4523392-clickhouse-dba-technical-support-engineer-clickhouse-experience-is-a-must-clone"
