@@ -1,5 +1,55 @@
 [
   {
+    "company": "TruckSmarter",
+    "contact": "",
+    "dateAdded": "2026-08-18",
+    "history": [
+      {
+        "date": "2026-08-18",
+        "note": "Job URL shared by Zack as a potential lead; saved only, application not submitted.",
+        "status": "saved"
+      },
+      {
+        "date": "2026-08-18",
+        "note": "Application submission explicitly confirmed by Zack.",
+        "status": "applied"
+      },
+      {
+        "date": "2026-08-20",
+        "note": "Rejection received because TruckSmarter closed the role.",
+        "status": "rejected"
+      }
+    ],
+    "id": "c8f80089d0ea",
+    "location": "San Francisco, CA — on-site five days per week",
+    "notes": "Application submission explicitly confirmed by Zack on 2026-08-18. Staff role setting platform architecture, deployment, observability, security, reliability, and developer-velocity standards for a small AI freight startup. Stack includes AWS ECS Fargate, RDS, S3, WAF, Redshift, DMS, CDK, Terraform, TypeScript, and Node.js. Requires 7+ years. Major caveat: five days per week in the downtown San Francisco office. Posted 2026-03-31. Rejection received on 2026-08-20 because TruckSmarter closed the role.",
+    "priority": "medium",
+    "resume": "",
+    "salary": "$220,000–$280,000 + benefits",
+    "source": "TruckSmarter Careers / Ashby",
+    "status": "rejected",
+    "tags": [
+      "Platform Engineering",
+      "Staff Engineer",
+      "AWS",
+      "ECS",
+      "Fargate",
+      "RDS",
+      "CDK",
+      "Terraform",
+      "TypeScript",
+      "Node.js",
+      "CI/CD",
+      "Observability",
+      "Security",
+      "Incident Response",
+      "San Francisco",
+      "On-site"
+    ],
+    "title": "Staff Platform Engineer",
+    "url": "https://jobs.ashbyhq.com/trucksmarter/683963e2-a8ac-420f-b090-5df5f51b4171/"
+  },
+  {
     "company": "Chainlink Labs",
     "contact": "",
     "dateAdded": "2026-08-18",
