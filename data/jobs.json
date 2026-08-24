@@ -200,15 +200,26 @@
     "company": "Sanity",
     "contact": "",
     "dateAdded": "2026-08-20",
-    "history": [{"date": "2026-08-20", "note": "Zack explicitly confirmed the application was successfully submitted.", "status": "applied"}],
+    "history": [
+      {
+        "date": "2026-08-20",
+        "note": "Zack explicitly confirmed the application was successfully submitted.",
+        "status": "applied"
+      },
+      {
+        "date": "2026-08-24",
+        "note": "Rejection received from the Sanity Talent Acquisition Team after application review.",
+        "status": "rejected"
+      }
+    ],
     "id": "ashby-01b3e311-43a1-49fd-8fb8-3587881e5316",
     "location": "",
-    "notes": "Application submission explicitly confirmed by Zack in the job-tracker channel.",
+    "notes": "Application submission explicitly confirmed by Zack in the job-tracker channel. Rejection received on 2026-08-24 after application review.",
     "priority": "high",
     "resume": "output/pdf/Senior DevOps-SRE Engineer.pdf",
     "salary": "",
     "source": "Ashby",
-    "status": "applied",
+    "status": "rejected",
     "tags": [],
     "title": "Senior Site Reliability Engineer",
     "url": "https://jobs.ashbyhq.com/sanity/01b3e311-43a1-49fd-8fb8-3587881e5316"
