@@ -3249,16 +3249,21 @@
         "date": "2026-08-13",
         "note": "Submission verified against local submission log",
         "status": "applied"
+      },
+      {
+        "date": "2026-08-24",
+        "note": "Rejection received from Upstart Recruiting; the company decided to move forward with other candidates.",
+        "status": "rejected"
       }
     ],
     "id": "f5a63b5056a2",
     "location": "Remote \u2014 United States",
-    "notes": "Operate Upstart's shared AWS/EKS platform for product and ML workloads. Excellent direct stack match: production Kubernetes, AWS networking/IAM, Terraform, ArgoCD/GitOps, reliability, incident response, and developer experience. Remote U.S.; 3+ years required.",
+    "notes": "Operate Upstart's shared AWS/EKS platform for product and ML workloads. Excellent direct stack match: production Kubernetes, AWS networking/IAM, Terraform, ArgoCD/GitOps, reliability, incident response, and developer experience. Remote U.S.; 3+ years required. Rejection received on 2026-08-24.",
     "priority": "high",
     "resume": "",
     "salary": "$142,000\u2013$196,600 + bonus + equity",
     "source": "Upstart Careers",
-    "status": "applied",
+    "status": "rejected",
     "tags": [
       "Kubernetes",
       "EKS",
@@ -3295,16 +3300,21 @@
         "date": "2026-08-13",
         "note": "Submission verified against local submission log",
         "status": "applied"
+      },
+      {
+        "date": "2026-08-24",
+        "note": "Rejection received from Upstart Recruiting; the company decided to move forward with other candidates.",
+        "status": "rejected"
       }
     ],
     "id": "0b6c4cc7dbb2",
     "location": "Remote \u2014 United States (East/West Coast time zones)",
-    "notes": "Build Kubernetes-based ephemeral environments and self-service developer tooling. Strong platform/DevOps match and fully remote in the U.S.; asks for 4+ years operating production Kubernetes and experience with Go or a comparable language.",
+    "notes": "Build Kubernetes-based ephemeral environments and self-service developer tooling. Strong platform/DevOps match and fully remote in the U.S.; asks for 4+ years operating production Kubernetes and experience with Go or a comparable language. Rejection received on 2026-08-24.",
     "priority": "high",
     "resume": "",
     "salary": "$166,900\u2013$230,900 + bonus + equity",
     "source": "Upstart Careers",
-    "status": "applied",
+    "status": "rejected",
     "tags": [
       "Kubernetes",
       "EKS",
