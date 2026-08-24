@@ -1561,16 +1561,21 @@
         "date": "2026-08-13",
         "note": "Application submission explicitly confirmed and verified",
         "status": "applied"
+      },
+      {
+        "date": "2026-08-24",
+        "note": "Rejection received from CloudZero after application review; the company moved forward with candidates whose experience more closely aligned with the role.",
+        "status": "rejected"
       }
     ],
     "id": "075cd60134bb",
     "location": "",
-    "notes": "Application submission explicitly confirmed and verified.",
+    "notes": "Application submission explicitly confirmed and verified. Rejection received on 2026-08-24 after application review.",
     "priority": "high",
     "resume": "",
     "salary": "",
     "source": "Wellfound",
-    "status": "applied",
+    "status": "rejected",
     "tags": [],
     "title": "Staff Technical Account Manager",
     "url": "https://wellfound.com/jobs/4388417-staff-technical-account-manager"
