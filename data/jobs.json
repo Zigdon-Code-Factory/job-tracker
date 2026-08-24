@@ -1,5 +1,38 @@
 [
   {
+    "company": "Salient",
+    "contact": "",
+    "dateAdded": "2026-08-18",
+    "history": [
+      {
+        "date": "2026-08-18",
+        "note": "Zack explicitly confirmed the application was successfully submitted.",
+        "status": "applied"
+      },
+      {
+        "date": "2026-08-24",
+        "note": "Rejection received from the Salient Hiring Team after application review.",
+        "status": "rejected"
+      }
+    ],
+    "id": "ashby-cae6bf34-0e59-449d-86e8-02fd0e6cf0eb",
+    "location": "San Francisco, CA — four days per week in office",
+    "notes": "Application submission explicitly confirmed by Zack on 2026-08-18. The Ashby posting was titled Infrastructure Engineer and described as Staff Infrastructure Engineer; the rejection email called the same role Member of Technical Staff, Infrastructure. The role stated that the team typically works about 60 hours per week starting at 8 AM. Rejection received on 2026-08-24 after application review.",
+    "priority": "medium",
+    "resume": "",
+    "salary": "$200,000–$300,000",
+    "source": "Ashby",
+    "status": "rejected",
+    "tags": [
+      "Infrastructure Engineering",
+      "Staff Engineer",
+      "San Francisco",
+      "On-site"
+    ],
+    "title": "Infrastructure Engineer / Member of Technical Staff, Infrastructure",
+    "url": "https://jobs.ashbyhq.com/salient/cae6bf34-0e59-449d-86e8-02fd0e6cf0eb/"
+  },
+  {
     "company": "TruckSmarter",
     "contact": "",
     "dateAdded": "2026-08-18",
