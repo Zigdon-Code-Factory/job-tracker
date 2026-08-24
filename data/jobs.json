@@ -312,15 +312,26 @@
     "company": "Camunda",
     "contact": "",
     "dateAdded": "2026-08-20",
-    "history": [{"date": "2026-08-20", "note": "Zack explicitly confirmed the application was successfully submitted.", "status": "applied"}],
+    "history": [
+      {
+        "date": "2026-08-20",
+        "note": "Zack explicitly confirmed the application was successfully submitted.",
+        "status": "applied"
+      },
+      {
+        "date": "2026-08-24",
+        "note": "Rejection received from Camunda after the application was not shortlisted for next steps.",
+        "status": "rejected"
+      }
+    ],
     "id": "ashby-21481c01-6c1f-4a79-be9b-2c7561c73a51",
     "location": "",
-    "notes": "Application submission explicitly confirmed by Zack in the job-tracker channel.",
+    "notes": "Application submission explicitly confirmed by Zack in the job-tracker channel. Rejection received on 2026-08-24 after the application was not shortlisted for next steps.",
     "priority": "high",
     "resume": "versions/Engineering Manager, Infrastructure - Platform/Engineering Manager, Cloud Foundations.docx",
     "salary": "",
     "source": "Ashby",
-    "status": "applied",
+    "status": "rejected",
     "tags": [],
     "title": "Engineering Manager - Infrastructure",
     "url": "https://jobs.ashbyhq.com/camunda/21481c01-6c1f-4a79-be9b-2c7561c73a51"
