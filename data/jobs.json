@@ -1,5 +1,125 @@
 [
   {
+    "company": "Ramp",
+    "contact": "Courtney Chan",
+    "dateAdded": "2026-08-27",
+    "history": [
+      {
+        "date": "2026-08-27",
+        "note": "Recruiter/intro-call email received from Courtney Chan; exact role title was not present in repository data.",
+        "status": "interviewing"
+      },
+      {
+        "date": "2026-09-03",
+        "note": "Zack explicitly instructed that this application be marked Rejected.",
+        "status": "rejected"
+      }
+    ],
+    "id": "cda4982011be",
+    "location": "",
+    "notes": "Ramp application identified by Courtney Chan’s 2026-08-27 recruiter/intro-call email. Exact role title was not present in repository data. Marked Rejected per Zack’s explicit instruction with outcome date 2026-09-03.",
+    "priority": "medium",
+    "resume": "",
+    "salary": "",
+    "source": "Direct recruiter email",
+    "status": "rejected",
+    "tags": [],
+    "title": "Application associated with Courtney Chan recruiter intro call",
+    "url": ""
+  },
+  {
+    "company": "Tools for Humanity",
+    "contact": "",
+    "dateAdded": "2026-08-28",
+    "history": [
+      {
+        "date": "2026-08-28",
+        "note": "Zack explicitly instructed that this application be recorded as Rejected with an outcome date of 2026-08-28.",
+        "status": "rejected"
+      }
+    ],
+    "id": "0718adec0554",
+    "location": "",
+    "notes": "Original application record was absent from repository data; restored from Zack's explicit instruction and marked Rejected with outcome date 2026-08-28.",
+    "priority": "medium",
+    "resume": "",
+    "salary": "",
+    "source": "",
+    "status": "rejected",
+    "tags": [],
+    "title": "Staff Infrastructure Engineer",
+    "url": ""
+  },
+  {
+    "company": "Abby Care",
+    "contact": "",
+    "dateAdded": "2026-08-27",
+    "history": [
+      {
+        "date": "2026-08-27",
+        "note": "Zack explicitly instructed that this application be recorded as Rejected with an outcome date of 2026-08-27.",
+        "status": "rejected"
+      }
+    ],
+    "id": "cd7fe4f61d46",
+    "location": "",
+    "notes": "Original application record was absent from repository data; restored from Zack's explicit instruction and marked Rejected with outcome date 2026-08-27.",
+    "priority": "medium",
+    "resume": "",
+    "salary": "",
+    "source": "",
+    "status": "rejected",
+    "tags": [],
+    "title": "Senior Platform Engineer",
+    "url": ""
+  },
+  {
+    "company": "GC AI",
+    "contact": "",
+    "dateAdded": "2026-08-31",
+    "history": [
+      {
+        "date": "2026-08-31",
+        "note": "Zack explicitly instructed that this application be recorded as Rejected with an outcome date of 2026-08-31.",
+        "status": "rejected"
+      }
+    ],
+    "id": "3db991e3fa00",
+    "location": "",
+    "notes": "Original application record was absent from repository data; restored from Zack's explicit instruction and marked Rejected with outcome date 2026-08-31.",
+    "priority": "medium",
+    "resume": "",
+    "salary": "",
+    "source": "",
+    "status": "rejected",
+    "tags": [],
+    "title": "Member of Technical Staff, Platform Engineering",
+    "url": ""
+  },
+  {
+    "company": "ReflexAI",
+    "contact": "",
+    "dateAdded": "2026-08-31",
+    "history": [
+      {
+        "date": "2026-08-31",
+        "note": "Zack explicitly instructed that this application be recorded as Rejected with an outcome date of 2026-08-31.",
+        "status": "rejected"
+      }
+    ],
+    "id": "86c77e429ff9",
+    "location": "",
+    "notes": "Original application record was absent from repository data; restored from Zack's explicit instruction and marked Rejected with outcome date 2026-08-31.",
+    "priority": "medium",
+    "resume": "",
+    "salary": "",
+    "source": "",
+    "status": "rejected",
+    "tags": [],
+    "title": "Senior Platform Engineer",
+    "url": ""
+  },
+  {
     "company": "Salient",
     "contact": "",
     "dateAdded": "2026-08-18",
@@ -647,29 +767,6 @@
     "url": "https://jobs.ashbyhq.com/AeroVect/3ec683eb-c391-4554-b12e-2637507c33b6/application?utm_source=Eop7pMkGOp"
   },
   {
-    "company": "Pica",
-    "contact": "",
-    "dateAdded": "2026-08-14",
-    "history": [
-      {
-        "date": "2026-08-14",
-        "note": "Application submitted and verified by Zack; resume basis was Senior DevOps Engineer.docx via the Wellfound profile.",
-        "status": "applied"
-      }
-    ],
-    "id": "b9a1dd942ccb",
-    "location": "",
-    "notes": "Application submission explicitly confirmed and verified by Zack. Resume basis: Senior DevOps Engineer.docx via Wellfound profile.",
-    "priority": "high",
-    "resume": "Senior DevOps Engineer.docx",
-    "salary": "",
-    "source": "Wellfound",
-    "status": "applied",
-    "tags": [],
-    "title": "Senior DevOps Engineer",
-    "url": "https://wellfound.com/jobs/3890230-senior-devops-engineer"
-  },
-  {
     "company": "Blaxel",
     "contact": "",
     "dateAdded": "2026-08-14",
@@ -1078,29 +1175,6 @@
     "url": "https://wellfound.com/jobs/4523084-senior-data-platform-engineer"
   },
   {
-    "company": "SENTRIQS",
-    "contact": "",
-    "dateAdded": "2026-08-13",
-    "history": [
-      {
-        "date": "2026-08-13",
-        "note": "Application submitted and verified by Zack; resume basis was Senior DevOps Engineer.docx, with Wellfound submitting the current profile.",
-        "status": "applied"
-      }
-    ],
-    "id": "05156eb32199",
-    "location": "",
-    "notes": "Application submission explicitly confirmed and verified by Zack. Resume basis: Senior DevOps Engineer.docx; Wellfound submitted the current profile.",
-    "priority": "high",
-    "resume": "Senior DevOps Engineer.docx",
-    "salary": "",
-    "source": "Wellfound",
-    "status": "applied",
-    "tags": [],
-    "title": "Senior DevOps Engineer",
-    "url": "https://wellfound.com/jobs/4351322-senior-devops-engineer"
-  },
-  {
     "company": "TrustIn",
     "contact": "",
     "dateAdded": "2026-08-13",
@@ -1408,29 +1482,6 @@
     "tags": [],
     "title": "Staff Platform Engineer, Core Cloud Platform",
     "url": "https://wellfound.com/jobs/4583477-staff-platform-engineer-core-cloud-platform"
-  },
-  {
-    "company": "Wider Circle",
-    "contact": "",
-    "dateAdded": "2026-08-13",
-    "history": [
-      {
-        "date": "2026-08-13",
-        "note": "Application submitted and verified by Zack.",
-        "status": "applied"
-      }
-    ],
-    "id": "c63c5eec0423",
-    "location": "",
-    "notes": "Application submission explicitly confirmed and verified by Zack in the job-tracker channel.",
-    "priority": "high",
-    "resume": "",
-    "salary": "",
-    "source": "Wellfound",
-    "status": "applied",
-    "tags": [],
-    "title": "DevSecOps Engineer",
-    "url": "https://wellfound.com/jobs/4584297-devsecops-engineer"
   },
   {
     "company": "Studio Labs",
@@ -2345,16 +2396,21 @@
         "date": "2026-08-13",
         "note": "Application submission explicitly confirmed and verified",
         "status": "applied"
+      },
+      {
+        "date": "2026-08-26",
+        "note": "Rejection received for the Senior Core Infrastructure Engineer application.",
+        "status": "rejected"
       }
     ],
     "id": "283f54cb22ad",
     "location": "",
-    "notes": "Application submission explicitly confirmed and verified.",
+    "notes": "Application submission explicitly confirmed and verified. Rejection received on 2026-08-26.",
     "priority": "high",
     "resume": "",
     "salary": "",
     "source": "Wellfound",
-    "status": "applied",
+    "status": "rejected",
     "tags": [],
     "title": "Senior Core Infrastructure Engineer",
     "url": "https://wellfound.com/jobs/3756449-senior-core-infrastructure-engineer"
@@ -2427,29 +2483,6 @@
     "tags": [],
     "title": "Senior / Staff Infrastructure Engineer",
     "url": "https://wellfound.com/jobs/4019752-2-senior-staff-infrastructure-engineer"
-  },
-  {
-    "company": "Angi",
-    "contact": "",
-    "dateAdded": "2026-08-13",
-    "history": [
-      {
-        "date": "2026-08-13",
-        "note": "Application submission explicitly confirmed and verified",
-        "status": "applied"
-      }
-    ],
-    "id": "3d4447b4f4ba",
-    "location": "",
-    "notes": "Application submission explicitly confirmed and verified.",
-    "priority": "high",
-    "resume": "",
-    "salary": "",
-    "source": "Wellfound",
-    "status": "applied",
-    "tags": [],
-    "title": "Senior Infrastructure Engineer",
-    "url": "https://wellfound.com/jobs/4408979-senior-infrastructure-engineer"
   },
   {
     "company": "Assured",
@@ -3153,16 +3186,21 @@
         "date": "2026-08-13",
         "note": "Submission verified against local submission log",
         "status": "applied"
+      },
+      {
+        "date": "2026-08-28",
+        "note": "Rejection received for the Principal DevOps Engineer application.",
+        "status": "rejected"
       }
     ],
     "id": "4c5a7f6f148d",
     "location": "Remote \u2014 United States (listed under Boston)",
-    "notes": "Founding member of a new AI-driven life-sciences platform. Own cloud architecture, IaC, CI/CD, automation, Kubernetes/OpenShift, and reliability while mentoring the team. Strong match; requires 5+ years DevOps plus Python and a statically typed language. Interview flow includes a third-party personality assessment, hiring-manager call, practical case, and senior-leader conversation.",
+    "notes": "Founding member of a new AI-driven life-sciences platform. Own cloud architecture, IaC, CI/CD, automation, Kubernetes/OpenShift, and reliability while mentoring the team. Strong match; requires 5+ years DevOps plus Python and a statically typed language. Interview flow includes a third-party personality assessment, hiring-manager call, practical case, and senior-leader conversation. Rejection received on 2026-08-28.",
     "priority": "high",
     "resume": "",
     "salary": "$150,000\u2013$230,000 + possible bonus/stock",
     "source": "Veeva Careers / Lever",
-    "status": "applied",
+    "status": "rejected",
     "tags": [
       "AWS",
       "Terraform",
