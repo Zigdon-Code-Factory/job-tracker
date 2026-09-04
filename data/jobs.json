@@ -1,5 +1,51 @@
 [
   {
+    "company": "Stitch Fix",
+    "contact": "",
+    "dateAdded": "2026-09-04",
+    "history": [
+      {
+        "date": "2026-09-04",
+        "note": "Application submission explicitly confirmed by Zack. Resume used: /Users/zack/Desktop/claude/HomeWebsite/output/pdf/Platform Engineer.pdf",
+        "status": "applied"
+      }
+    ],
+    "id": "429f60314cc5",
+    "location": "",
+    "notes": "Application submission explicitly confirmed by Zack on 2026-09-04.",
+    "priority": "medium",
+    "resume": "/Users/zack/Desktop/claude/HomeWebsite/output/pdf/Platform Engineer.pdf",
+    "salary": "",
+    "source": "Stitch Fix Careers / Greenhouse",
+    "status": "applied",
+    "tags": [],
+    "title": "Principal Platform Engineer",
+    "url": "https://www.stitchfix.com/careers/jobs?gh_jid=8165186"
+  },
+  {
+    "company": "Cresta",
+    "contact": "",
+    "dateAdded": "2026-09-04",
+    "history": [
+      {
+        "date": "2026-09-04",
+        "note": "Application submission explicitly confirmed by Zack. Resume used: /Users/zack/Desktop/claude/HomeWebsite/output/pdf/Senior DevOps-SRE Engineer.pdf",
+        "status": "applied"
+      }
+    ],
+    "id": "51441cc37f46",
+    "location": "",
+    "notes": "Application submission explicitly confirmed by Zack on 2026-09-04.",
+    "priority": "medium",
+    "resume": "/Users/zack/Desktop/claude/HomeWebsite/output/pdf/Senior DevOps-SRE Engineer.pdf",
+    "salary": "",
+    "source": "Greenhouse",
+    "status": "applied",
+    "tags": [],
+    "title": "Senior Infrastructure Engineer/SRE",
+    "url": "https://job-boards.greenhouse.io/cresta/jobs/5137153008"
+  },
+  {
     "company": "Komodo Health",
     "contact": "",
     "dateAdded": "2026-09-04",
