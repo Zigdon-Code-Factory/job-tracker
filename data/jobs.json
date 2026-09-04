@@ -1,5 +1,166 @@
 [
   {
+    "company": "Komodo Health",
+    "contact": "",
+    "dateAdded": "2026-09-04",
+    "history": [
+      {
+        "date": "2026-09-04",
+        "note": "Application submission explicitly confirmed by Zack. Resume used: /Users/zack/Desktop/claude/HomeWebsite/output/pdf/Platform Engineer.pdf",
+        "status": "applied"
+      }
+    ],
+    "id": "f315f6b91172",
+    "location": "",
+    "notes": "Application submission explicitly confirmed by Zack on 2026-09-04.",
+    "priority": "medium",
+    "resume": "/Users/zack/Desktop/claude/HomeWebsite/output/pdf/Platform Engineer.pdf",
+    "salary": "",
+    "source": "Greenhouse",
+    "status": "applied",
+    "tags": [],
+    "title": "Senior/Staff Platform Engineer",
+    "url": "https://job-boards.greenhouse.io/komodohealth/jobs/8546790002"
+  },
+  {
+    "company": "Grow Therapy",
+    "contact": "",
+    "dateAdded": "2026-09-04",
+    "history": [
+      {
+        "date": "2026-09-04",
+        "note": "Application submission explicitly confirmed by Zack. Resume used: /Users/zack/Desktop/claude/HomeWebsite/Zackery_Higdon_Resume_Full.pdf",
+        "status": "applied"
+      }
+    ],
+    "id": "b1208f0eead3",
+    "location": "",
+    "notes": "Application submission explicitly confirmed by Zack on 2026-09-04.",
+    "priority": "medium",
+    "resume": "/Users/zack/Desktop/claude/HomeWebsite/Zackery_Higdon_Resume_Full.pdf",
+    "salary": "",
+    "source": "Ashby",
+    "status": "applied",
+    "tags": [],
+    "title": "Senior/Staff Engineer, Cloud & Infrastructure Security",
+    "url": "https://jobs.ashbyhq.com/grow-therapy/40326d35-cf61-4b93-bc39-2679c07b4332/application"
+  },
+  {
+    "company": "Komodo Health",
+    "contact": "",
+    "dateAdded": "2026-09-04",
+    "history": [
+      {
+        "date": "2026-09-04",
+        "note": "Application submission explicitly confirmed by Zack. Resume used: /Users/zack/Desktop/claude/HomeWebsite/output/pdf/Software Engineer, Infrastructure - Cloud Infrastructure.pdf",
+        "status": "applied"
+      }
+    ],
+    "id": "7bdd9baab3e0",
+    "location": "",
+    "notes": "Application submission explicitly confirmed by Zack on 2026-09-04.",
+    "priority": "medium",
+    "resume": "/Users/zack/Desktop/claude/HomeWebsite/output/pdf/Software Engineer, Infrastructure - Cloud Infrastructure.pdf",
+    "salary": "",
+    "source": "Greenhouse",
+    "status": "applied",
+    "tags": [],
+    "title": "Senior Infrastructure Engineer",
+    "url": "https://job-boards.greenhouse.io/komodohealth/jobs/8540299002"
+  },
+  {
+    "company": "Radar",
+    "contact": "",
+    "dateAdded": "2026-09-04",
+    "history": [
+      {
+        "date": "2026-09-04",
+        "note": "Application submission explicitly confirmed by Zack. Resume used: /Users/zack/Desktop/claude/HomeWebsite/output/pdf/Platform Engineer.pdf",
+        "status": "applied"
+      }
+    ],
+    "id": "8e90f43aa2fa",
+    "location": "",
+    "notes": "Application submission explicitly confirmed by Zack on 2026-09-04.",
+    "priority": "medium",
+    "resume": "/Users/zack/Desktop/claude/HomeWebsite/output/pdf/Platform Engineer.pdf",
+    "salary": "",
+    "source": "Ashby",
+    "status": "applied",
+    "tags": [],
+    "title": "Senior / Staff Platform Engineer",
+    "url": "https://jobs.ashbyhq.com/radar/ee0bf269-c286-4815-86d4-2b19d7b77448/application"
+  },
+  {
+    "company": "Chartis",
+    "contact": "",
+    "dateAdded": "2026-09-04",
+    "history": [
+      {
+        "date": "2026-09-04",
+        "note": "Application submission explicitly confirmed by Zack. Resume used: /Users/zack/Desktop/claude/HomeWebsite/output/pdf/Platform Engineer.pdf",
+        "status": "applied"
+      }
+    ],
+    "id": "7e98c730a371",
+    "location": "",
+    "notes": "Application submission explicitly confirmed by Zack on 2026-09-04.",
+    "priority": "medium",
+    "resume": "/Users/zack/Desktop/claude/HomeWebsite/output/pdf/Platform Engineer.pdf",
+    "salary": "",
+    "source": "Ashby",
+    "status": "applied",
+    "tags": [],
+    "title": "Senior Platform Engineer",
+    "url": "https://jobs.ashbyhq.com/chartis/af20d621-058c-4e11-af80-40fadbf98a1e/application"
+  },
+  {
+    "company": "Honor",
+    "contact": "",
+    "dateAdded": "2026-09-04",
+    "history": [
+      {
+        "date": "2026-09-04",
+        "note": "Application submission explicitly confirmed by Zack. Resume used: /Users/zack/Desktop/claude/HomeWebsite/output/pdf/Platform Engineer.pdf",
+        "status": "applied"
+      }
+    ],
+    "id": "b27a36b9a4f2",
+    "location": "",
+    "notes": "Application submission explicitly confirmed by Zack on 2026-09-04.",
+    "priority": "medium",
+    "resume": "/Users/zack/Desktop/claude/HomeWebsite/output/pdf/Platform Engineer.pdf",
+    "salary": "",
+    "source": "Greenhouse",
+    "status": "applied",
+    "tags": [],
+    "title": "Staff Platform Engineer - Infra + DevOps",
+    "url": "https://job-boards.greenhouse.io/honor/jobs/8297124002"
+  },
+  {
+    "company": "Webflow",
+    "contact": "",
+    "dateAdded": "2026-09-04",
+    "history": [
+      {
+        "date": "2026-09-04",
+        "note": "Application submission explicitly confirmed by Zack. Resume used: /Users/zack/Desktop/claude/HomeWebsite/output/pdf/Platform Engineer.pdf",
+        "status": "applied"
+      }
+    ],
+    "id": "15138c189a6f",
+    "location": "",
+    "notes": "Application submission explicitly confirmed by Zack on 2026-09-04.",
+    "priority": "medium",
+    "resume": "/Users/zack/Desktop/claude/HomeWebsite/output/pdf/Platform Engineer.pdf",
+    "salary": "",
+    "source": "Greenhouse",
+    "status": "applied",
+    "tags": [],
+    "title": "Senior Platform Engineer, Infrastructure",
+    "url": "https://job-boards.greenhouse.io/webflow/jobs/8148362"
+  },
+  {
     "company": "Ramp",
     "contact": "Courtney Chan",
     "dateAdded": "2026-08-27",
