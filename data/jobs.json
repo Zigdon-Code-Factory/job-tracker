@@ -1104,52 +1104,6 @@
     "url": "https://wellfound.com/jobs/4041249-senior-software-engineer-reliability"
   },
   {
-    "company": "Give Lively",
-    "contact": "",
-    "dateAdded": "2026-08-13",
-    "history": [
-      {
-        "date": "2026-08-13",
-        "note": "Application submitted and verified by Zack; resume basis was Lead Site Reliability Engineer.docx via the Wellfound profile.",
-        "status": "applied"
-      }
-    ],
-    "id": "102a0766ec2c",
-    "location": "",
-    "notes": "Application submission explicitly confirmed and verified by Zack. Resume basis: Lead Site Reliability Engineer.docx via Wellfound profile.",
-    "priority": "high",
-    "resume": "Lead Site Reliability Engineer.docx",
-    "salary": "",
-    "source": "Wellfound",
-    "status": "applied",
-    "tags": [],
-    "title": "Site Reliability Engineer, CI/CD & Load Testing (US-Remote) for Social Good",
-    "url": "https://wellfound.com/jobs/3876230-site-reliability-engineer-ci-cd-load-testing-us-remote-for-social-good"
-  },
-  {
-    "company": "FarmGPU",
-    "contact": "",
-    "dateAdded": "2026-08-13",
-    "history": [
-      {
-        "date": "2026-08-13",
-        "note": "Application submitted and verified by Zack; resume basis was Lead Site Reliability Engineer.docx via the Wellfound profile.",
-        "status": "applied"
-      }
-    ],
-    "id": "7169bece663b",
-    "location": "",
-    "notes": "Application submission explicitly confirmed and verified by Zack. Resume basis: Lead Site Reliability Engineer.docx via Wellfound profile.",
-    "priority": "high",
-    "resume": "Lead Site Reliability Engineer.docx",
-    "salary": "",
-    "source": "Wellfound",
-    "status": "applied",
-    "tags": [],
-    "title": "Senior Site Reliability Engineer",
-    "url": "https://wellfound.com/jobs/4562495-senior-site-reliability-engineer"
-  },
-  {
     "company": "Alpaca",
     "contact": "",
     "dateAdded": "2026-08-13",
@@ -1176,29 +1130,6 @@
     "tags": [],
     "title": "Senior Site Reliability Engineer",
     "url": "https://wellfound.com/jobs/4550740-senior-site-reliability-engineer"
-  },
-  {
-    "company": "Voreas Laboratories",
-    "contact": "",
-    "dateAdded": "2026-08-13",
-    "history": [
-      {
-        "date": "2026-08-13",
-        "note": "Application submitted and verified by Zack; resume basis was Senior DevOps Engineer.docx via the Wellfound profile.",
-        "status": "applied"
-      }
-    ],
-    "id": "b68a18ff6ec1",
-    "location": "",
-    "notes": "Application submission explicitly confirmed and verified by Zack. Resume basis: Senior DevOps Engineer.docx via Wellfound profile.",
-    "priority": "high",
-    "resume": "Senior DevOps Engineer.docx",
-    "salary": "",
-    "source": "Wellfound",
-    "status": "applied",
-    "tags": [],
-    "title": "Senior DevOps Engineer",
-    "url": "https://wellfound.com/jobs/4250962-senior-devops-engineer"
   },
   {
     "company": "Assured",
@@ -1273,29 +1204,6 @@
     "tags": [],
     "title": "Software Engineer, Infra/Systems",
     "url": "https://wellfound.com/jobs/3352270-software-engineer-infra-systems"
-  },
-  {
-    "company": "TrustIn",
-    "contact": "",
-    "dateAdded": "2026-08-13",
-    "history": [
-      {
-        "date": "2026-08-13",
-        "note": "Application submitted and verified by Zack; resume basis was Senior Platform Engineer.docx, with Wellfound submitting the current profile.",
-        "status": "applied"
-      }
-    ],
-    "id": "4cfb65295a2c",
-    "location": "",
-    "notes": "Application submission explicitly confirmed and verified by Zack. Resume basis: Senior Platform Engineer.docx; Wellfound submitted the current profile.",
-    "priority": "high",
-    "resume": "Senior Platform Engineer.docx",
-    "salary": "",
-    "source": "Wellfound",
-    "status": "applied",
-    "tags": [],
-    "title": "Member of Technical Staff - AI Robotics / Python, C++, Docker / Up to $350k",
-    "url": "https://wellfound.com/jobs/4238668-member-of-technical-staff-ai-robotics-python-c-docker-up-to-350k"
   },
   {
     "company": "SentinelOne",
@@ -1380,144 +1288,6 @@
     "tags": [],
     "title": "Senior Data Platform Engineer",
     "url": "https://wellfound.com/jobs/4523084-senior-data-platform-engineer"
-  },
-  {
-    "company": "TrustIn",
-    "contact": "",
-    "dateAdded": "2026-08-13",
-    "history": [
-      {
-        "date": "2026-08-13",
-        "note": "Application submitted and verified by Zack; resume basis was Infrastructure Engineer.docx, with Wellfound submitting the current profile.",
-        "status": "applied"
-      }
-    ],
-    "id": "4b65cfbf9a27",
-    "location": "",
-    "notes": "Application submission explicitly confirmed and verified by Zack. Resume basis: Infrastructure Engineer.docx; Wellfound submitted the current profile.",
-    "priority": "high",
-    "resume": "Infrastructure Engineer.docx",
-    "salary": "",
-    "source": "Wellfound",
-    "status": "applied",
-    "tags": [],
-    "title": "Infrastructure Software Engineer - AI Risk Management Platform / AWS, Kafka / Series A",
-    "url": "https://wellfound.com/jobs/4238673-infrastructure-software-engineer-ai-risk-management-platform-aws-kafka-series-a"
-  },
-  {
-    "company": "TrustIn",
-    "contact": "",
-    "dateAdded": "2026-08-13",
-    "history": [
-      {
-        "date": "2026-08-13",
-        "note": "Application submitted and verified by Zack; resume basis was Senior Platform Engineer.docx, with Wellfound submitting the current profile.",
-        "status": "applied"
-      }
-    ],
-    "id": "d2255afefa60",
-    "location": "",
-    "notes": "Application submission explicitly confirmed and verified by Zack. Resume basis: Senior Platform Engineer.docx; Wellfound submitted the current profile.",
-    "priority": "high",
-    "resume": "Senior Platform Engineer.docx",
-    "salary": "",
-    "source": "Wellfound",
-    "status": "applied",
-    "tags": [],
-    "title": "Senior Engineer \u2013 Backend & Platform / Remote / up to $300K + equity",
-    "url": "https://wellfound.com/jobs/4446105-senior-engineer-backend-platform-remote-up-to-300k-equity"
-  },
-  {
-    "company": "TrustIn",
-    "contact": "",
-    "dateAdded": "2026-08-13",
-    "history": [
-      {
-        "date": "2026-08-13",
-        "note": "Application submitted and verified by Zack; resume basis was Director of Engineering, Infrastructure & Platform.docx, with Wellfound submitting the current profile.",
-        "status": "applied"
-      }
-    ],
-    "id": "409edd3e4942",
-    "location": "",
-    "notes": "Application submission explicitly confirmed and verified by Zack. Resume basis: Director of Engineering, Infrastructure & Platform.docx; Wellfound submitted the current profile.",
-    "priority": "high",
-    "resume": "Director of Engineering, Infrastructure & Platform.docx",
-    "salary": "",
-    "source": "Wellfound",
-    "status": "applied",
-    "tags": [],
-    "title": "Platform Engineering Leader - AI Scientific Lab / AWS, Python, Linux",
-    "url": "https://wellfound.com/jobs/4238681-platform-engineering-leader-ai-scientific-lab-aws-python-linux"
-  },
-  {
-    "company": "TrustIn",
-    "contact": "",
-    "dateAdded": "2026-08-13",
-    "history": [
-      {
-        "date": "2026-08-13",
-        "note": "Application submitted and verified by Zack; resume basis was Senior Platform Engineer.docx, with Wellfound submitting the current profile.",
-        "status": "applied"
-      }
-    ],
-    "id": "0958602423e6",
-    "location": "",
-    "notes": "Application submission explicitly confirmed and verified by Zack. Resume basis: Senior Platform Engineer.docx; Wellfound submitted the current profile.",
-    "priority": "high",
-    "resume": "Senior Platform Engineer.docx",
-    "salary": "",
-    "source": "Wellfound",
-    "status": "applied",
-    "tags": [],
-    "title": "Senior Platform Engineer / Fintech / Typescript, Node.js, AWS / Fully Remote",
-    "url": "https://wellfound.com/jobs/4144572-senior-platform-engineer-fintech-typescript-node-js-aws-fully-remote"
-  },
-  {
-    "company": "Pitch Aeronautics",
-    "contact": "",
-    "dateAdded": "2026-08-13",
-    "history": [
-      {
-        "date": "2026-08-13",
-        "note": "Application submitted and verified by Zack; resume basis was Senior DevOps Engineer.docx, with Wellfound submitting the current profile.",
-        "status": "applied"
-      }
-    ],
-    "id": "fef1175be38d",
-    "location": "",
-    "notes": "Application submission explicitly confirmed and verified by Zack. Resume basis: Senior DevOps Engineer.docx; Wellfound submitted the current profile.",
-    "priority": "high",
-    "resume": "Senior DevOps Engineer.docx",
-    "salary": "",
-    "source": "Wellfound",
-    "status": "applied",
-    "tags": [],
-    "title": "DevOps Engineer",
-    "url": "https://wellfound.com/jobs/4536763-full-stack-developer-clone"
-  },
-  {
-    "company": "TrustIn",
-    "contact": "",
-    "dateAdded": "2026-08-13",
-    "history": [
-      {
-        "date": "2026-08-13",
-        "note": "Application submitted and verified by Zack; resume basis was Principal DevOps Engineer.docx, with Wellfound submitting the current profile.",
-        "status": "applied"
-      }
-    ],
-    "id": "94b8e1b9fe5b",
-    "location": "",
-    "notes": "Application submission explicitly confirmed and verified by Zack. Resume basis: Principal DevOps Engineer.docx; Wellfound submitted the current profile.",
-    "priority": "high",
-    "resume": "Principal DevOps Engineer.docx",
-    "salary": "",
-    "source": "Wellfound",
-    "status": "applied",
-    "tags": [],
-    "title": "Staff DevOps Engineer - API Platform / AWS / Azure / GCP",
-    "url": "https://wellfound.com/jobs/4092905-staff-devops-engineer-api-platform-aws-azure-gcp"
   },
   {
     "company": "Hungryroot",
@@ -1689,75 +1459,6 @@
     "tags": [],
     "title": "Staff Platform Engineer, Core Cloud Platform",
     "url": "https://wellfound.com/jobs/4583477-staff-platform-engineer-core-cloud-platform"
-  },
-  {
-    "company": "Studio Labs",
-    "contact": "",
-    "dateAdded": "2026-08-13",
-    "history": [
-      {
-        "date": "2026-08-13",
-        "note": "Application submitted and verified by Zack.",
-        "status": "applied"
-      }
-    ],
-    "id": "30122f691772",
-    "location": "",
-    "notes": "Application submission explicitly confirmed and verified by Zack in the job-tracker channel.",
-    "priority": "high",
-    "resume": "",
-    "salary": "",
-    "source": "Wellfound",
-    "status": "applied",
-    "tags": [],
-    "title": "Senior SysDevOps Engineer",
-    "url": "https://wellfound.com/jobs/4573074-senior-sysdevops-engineer"
-  },
-  {
-    "company": "Toi Labs",
-    "contact": "",
-    "dateAdded": "2026-08-13",
-    "history": [
-      {
-        "date": "2026-08-13",
-        "note": "Application submitted and verified by Zack.",
-        "status": "applied"
-      }
-    ],
-    "id": "193b124ab6f8",
-    "location": "",
-    "notes": "Application submission explicitly confirmed and verified by Zack in the job-tracker channel.",
-    "priority": "high",
-    "resume": "",
-    "salary": "",
-    "source": "Wellfound",
-    "status": "applied",
-    "tags": [],
-    "title": "Senior Cloud & IoT Engineer",
-    "url": "https://wellfound.com/jobs/4579438-senior-cloud-iot-engineer"
-  },
-  {
-    "company": "MOLTEN Cloud",
-    "contact": "",
-    "dateAdded": "2026-08-13",
-    "history": [
-      {
-        "date": "2026-08-13",
-        "note": "Application submitted and verified by Zack.",
-        "status": "applied"
-      }
-    ],
-    "id": "60b9329c2100",
-    "location": "",
-    "notes": "Application submission explicitly confirmed and verified by Zack in the job-tracker channel.",
-    "priority": "high",
-    "resume": "",
-    "salary": "",
-    "source": "Wellfound",
-    "status": "applied",
-    "tags": [],
-    "title": "Senior Software Engineer (fully remote domestically in USA)",
-    "url": "https://wellfound.com/jobs/3544540-senior-software-engineer-fully-remote-domestically-in-usa"
   },
   {
     "company": "Convex",
@@ -2005,29 +1706,6 @@
     "url": "https://wellfound.com/jobs/3963357-platform-engineer-ai-ml-infrastructure-kubernetes-terraform"
   },
   {
-    "company": "Rocket Money",
-    "contact": "",
-    "dateAdded": "2026-08-13",
-    "history": [
-      {
-        "date": "2026-08-13",
-        "note": "Application submission explicitly confirmed and verified",
-        "status": "applied"
-      }
-    ],
-    "id": "d4fe6d19061f",
-    "location": "",
-    "notes": "Application submission explicitly confirmed and verified.",
-    "priority": "high",
-    "resume": "",
-    "salary": "",
-    "source": "Wellfound",
-    "status": "applied",
-    "tags": [],
-    "title": "Senior Data Platform Engineer",
-    "url": "https://wellfound.com/jobs/4140110-senior-data-platform-engineer"
-  },
-  {
     "company": "Wynd Labs",
     "contact": "",
     "dateAdded": "2026-08-13",
@@ -2072,29 +1750,6 @@
     "tags": [],
     "title": "Senior Software Engineer, Infrastructure",
     "url": "https://wellfound.com/jobs/4099699-senior-software-engineer-infrastructure"
-  },
-  {
-    "company": "nOps",
-    "contact": "",
-    "dateAdded": "2026-08-13",
-    "history": [
-      {
-        "date": "2026-08-13",
-        "note": "Application submission explicitly confirmed and verified",
-        "status": "applied"
-      }
-    ],
-    "id": "8de1bcb1b6f4",
-    "location": "",
-    "notes": "Application submission explicitly confirmed and verified.",
-    "priority": "high",
-    "resume": "",
-    "salary": "",
-    "source": "Wellfound",
-    "status": "applied",
-    "tags": [],
-    "title": "Senior Data Platform Engineer",
-    "url": "https://wellfound.com/jobs/4523416-senior-data-platform-engineer"
   },
   {
     "company": "Postman",
@@ -2166,29 +1821,6 @@
     "url": "https://wellfound.com/jobs/4528045-senior-devops-engineer"
   },
   {
-    "company": "Chime",
-    "contact": "",
-    "dateAdded": "2026-08-13",
-    "history": [
-      {
-        "date": "2026-08-13",
-        "note": "Application submission explicitly confirmed and verified",
-        "status": "applied"
-      }
-    ],
-    "id": "16b03e881c9b",
-    "location": "",
-    "notes": "Application submission explicitly confirmed and verified.",
-    "priority": "high",
-    "resume": "",
-    "salary": "",
-    "source": "Wellfound",
-    "status": "applied",
-    "tags": [],
-    "title": "Software Engineer, Infrastructure",
-    "url": "https://wellfound.com/jobs/4452861-software-engineer-infrastructure"
-  },
-  {
     "company": "Modern Treasury",
     "contact": "",
     "dateAdded": "2026-08-13",
@@ -2212,98 +1844,6 @@
     "url": "https://wellfound.com/jobs/3852615-software-engineer-infrastructure"
   },
   {
-    "company": "Matterhaul",
-    "contact": "",
-    "dateAdded": "2026-08-13",
-    "history": [
-      {
-        "date": "2026-08-13",
-        "note": "Application submission explicitly confirmed and verified",
-        "status": "applied"
-      }
-    ],
-    "id": "e0f7201cfffc",
-    "location": "",
-    "notes": "Application submission explicitly confirmed and verified.",
-    "priority": "high",
-    "resume": "",
-    "salary": "",
-    "source": "Wellfound",
-    "status": "applied",
-    "tags": [],
-    "title": "Founding Backend Infrastructure Engineer",
-    "url": "https://wellfound.com/jobs/4121758-founding-backend-infrastructure-engineer"
-  },
-  {
-    "company": "Virio",
-    "contact": "",
-    "dateAdded": "2026-08-13",
-    "history": [
-      {
-        "date": "2026-08-13",
-        "note": "Application submission explicitly confirmed and verified",
-        "status": "applied"
-      }
-    ],
-    "id": "5bc1837ee916",
-    "location": "",
-    "notes": "Application submission explicitly confirmed and verified.",
-    "priority": "high",
-    "resume": "",
-    "salary": "",
-    "source": "Wellfound",
-    "status": "applied",
-    "tags": [],
-    "title": "Founding Infrastructure Engineer",
-    "url": "https://wellfound.com/jobs/4361146-founding-infrastructure-engineer"
-  },
-  {
-    "company": "Influxion",
-    "contact": "",
-    "dateAdded": "2026-08-13",
-    "history": [
-      {
-        "date": "2026-08-13",
-        "note": "Application submission explicitly confirmed and verified",
-        "status": "applied"
-      }
-    ],
-    "id": "91766798c02d",
-    "location": "",
-    "notes": "Application submission explicitly confirmed and verified.",
-    "priority": "high",
-    "resume": "",
-    "salary": "",
-    "source": "Wellfound",
-    "status": "applied",
-    "tags": [],
-    "title": "Founding Infrastructure Engineer",
-    "url": "https://wellfound.com/jobs/4475799-founding-infrastructure-engineer"
-  },
-  {
-    "company": "SatoriQ",
-    "contact": "",
-    "dateAdded": "2026-08-13",
-    "history": [
-      {
-        "date": "2026-08-13",
-        "note": "Application submission explicitly confirmed and verified",
-        "status": "applied"
-      }
-    ],
-    "id": "ffb7123ec38a",
-    "location": "",
-    "notes": "Application submission explicitly confirmed and verified.",
-    "priority": "high",
-    "resume": "",
-    "salary": "",
-    "source": "Wellfound",
-    "status": "applied",
-    "tags": [],
-    "title": "Senior AI Platform Engineer",
-    "url": "https://wellfound.com/jobs/4505646-senior-ai-platform-engineer"
-  },
-  {
     "company": "Triumph Arcade",
     "contact": "",
     "dateAdded": "2026-08-13",
@@ -2325,75 +1865,6 @@
     "tags": [],
     "title": "Infrastructure Engineer",
     "url": "https://wellfound.com/jobs/4261616-infrastructure-engineer"
-  },
-  {
-    "company": "Countly",
-    "contact": "",
-    "dateAdded": "2026-08-13",
-    "history": [
-      {
-        "date": "2026-08-13",
-        "note": "Application submission explicitly confirmed and verified",
-        "status": "applied"
-      }
-    ],
-    "id": "f8030aeeedea",
-    "location": "",
-    "notes": "Application submission explicitly confirmed and verified.",
-    "priority": "high",
-    "resume": "",
-    "salary": "",
-    "source": "Wellfound",
-    "status": "applied",
-    "tags": [],
-    "title": "DevOps Engineer",
-    "url": "https://wellfound.com/jobs/4408966-devops-engineer"
-  },
-  {
-    "company": "Zentium.ai",
-    "contact": "",
-    "dateAdded": "2026-08-13",
-    "history": [
-      {
-        "date": "2026-08-13",
-        "note": "Application submission explicitly confirmed and verified",
-        "status": "applied"
-      }
-    ],
-    "id": "7e50f1a454a2",
-    "location": "",
-    "notes": "Application submission explicitly confirmed and verified.",
-    "priority": "high",
-    "resume": "",
-    "salary": "",
-    "source": "Wellfound",
-    "status": "applied",
-    "tags": [],
-    "title": "DevOps Engineer",
-    "url": "https://wellfound.com/jobs/4289791-devops-engineer"
-  },
-  {
-    "company": "Dinari",
-    "contact": "",
-    "dateAdded": "2026-08-13",
-    "history": [
-      {
-        "date": "2026-08-13",
-        "note": "Application submission explicitly confirmed and verified",
-        "status": "applied"
-      }
-    ],
-    "id": "855af2177cee",
-    "location": "",
-    "notes": "Application submission explicitly confirmed and verified.",
-    "priority": "high",
-    "resume": "",
-    "salary": "",
-    "source": "Wellfound",
-    "status": "applied",
-    "tags": [],
-    "title": "DevOps Engineer",
-    "url": "https://wellfound.com/jobs/4290051-devops-engineer"
   },
   {
     "company": "Pylon",
@@ -2623,29 +2094,6 @@
     "url": "https://wellfound.com/jobs/3756449-senior-core-infrastructure-engineer"
   },
   {
-    "company": "Clever",
-    "contact": "",
-    "dateAdded": "2026-08-13",
-    "history": [
-      {
-        "date": "2026-08-13",
-        "note": "Application submission explicitly confirmed and verified",
-        "status": "applied"
-      }
-    ],
-    "id": "729245920d8f",
-    "location": "",
-    "notes": "Application submission explicitly confirmed and verified.",
-    "priority": "high",
-    "resume": "",
-    "salary": "",
-    "source": "Wellfound",
-    "status": "applied",
-    "tags": [],
-    "title": "Senior Software Engineer, Infrastructure",
-    "url": "https://wellfound.com/jobs/4220138-senior-software-engineer-infrastructure"
-  },
-  {
     "company": "Ivo",
     "contact": "",
     "dateAdded": "2026-08-13",
@@ -2715,52 +2163,6 @@
     "url": "https://wellfound.com/jobs/3140186-staff-site-reliability-engineer"
   },
   {
-    "company": "Memorang",
-    "contact": "",
-    "dateAdded": "2026-08-13",
-    "history": [
-      {
-        "date": "2026-08-13",
-        "note": "Application submission explicitly confirmed and verified",
-        "status": "applied"
-      }
-    ],
-    "id": "45e45bfb2102",
-    "location": "",
-    "notes": "Application submission explicitly confirmed and verified.",
-    "priority": "high",
-    "resume": "",
-    "salary": "",
-    "source": "Wellfound",
-    "status": "applied",
-    "tags": [],
-    "title": "Principal DevOps Engineer",
-    "url": "https://wellfound.com/jobs/4546481-principal-devops-engineer"
-  },
-  {
-    "company": "Rocket Money",
-    "contact": "",
-    "dateAdded": "2026-08-13",
-    "history": [
-      {
-        "date": "2026-08-13",
-        "note": "Application submission explicitly confirmed and verified",
-        "status": "applied"
-      }
-    ],
-    "id": "b5608db3f663",
-    "location": "",
-    "notes": "Application submission explicitly confirmed and verified.",
-    "priority": "high",
-    "resume": "",
-    "salary": "",
-    "source": "Wellfound",
-    "status": "applied",
-    "tags": [],
-    "title": "Senior Infrastructure Engineer, Cloud Security",
-    "url": "https://wellfound.com/jobs/4215026-senior-infrastructure-engineer-cloud-security"
-  },
-  {
     "company": "Fieldguide",
     "contact": "",
     "dateAdded": "2026-08-13",
@@ -2787,29 +2189,6 @@
     "tags": [],
     "title": "Senior Infrastructure Engineer",
     "url": "https://wellfound.com/jobs/3922098-senior-infrastructure-engineer"
-  },
-  {
-    "company": "Twin Health",
-    "contact": "",
-    "dateAdded": "2026-08-13",
-    "history": [
-      {
-        "date": "2026-08-13",
-        "note": "Application submission explicitly confirmed and verified",
-        "status": "applied"
-      }
-    ],
-    "id": "f2cdf3b6fcd5",
-    "location": "",
-    "notes": "Application submission explicitly confirmed and verified.",
-    "priority": "high",
-    "resume": "",
-    "salary": "",
-    "source": "Wellfound",
-    "status": "applied",
-    "tags": [],
-    "title": "Senior Platform Engineer, Productivity & Cloud",
-    "url": "https://wellfound.com/jobs/4465510-senior-platform-engineer-productivity-cloud"
   },
   {
     "company": "Strativ Group",
@@ -3432,53 +2811,6 @@
     ],
     "title": "Principal DevOps Engineer",
     "url": "https://jobs.lever.co/veeva/27a117b3-e81f-4e4e-a534-0a1b536500be"
-  },
-  {
-    "company": "SCARCE Labs, Inc.",
-    "contact": "David Fox \u2014 Founder",
-    "dateAdded": "2026-08-13",
-    "history": [
-      {
-        "date": "2026-08-13",
-        "note": "Created via API",
-        "status": "saved"
-      },
-      {
-        "date": "2026-08-13",
-        "note": "Submission verified against local submission log",
-        "status": "applied"
-      }
-    ],
-    "id": "0ada29fa48e4",
-    "location": "Remote \u2014 everywhere (U.S. time zones preferred)",
-    "notes": "Founding-team infrastructure seat at a 1\u201310 person pre-seed startup. Own AWS, CI/CD, observability, incident response, security hardening, secrets, and production readiness from the ground up. Strong technical match but higher startup/financing risk; no visa sponsorship. Application asks for a short rollback-under-pressure story.",
-    "priority": "high",
-    "resume": "",
-    "salary": "$170,000\u2013$200,000 + 0.25%\u20131.0% equity",
-    "source": "Wellfound",
-    "status": "applied",
-    "tags": [
-      "AWS",
-      "Terraform",
-      "Infrastructure as Code",
-      "Kubernetes",
-      "ECS",
-      "Docker",
-      "CI/CD",
-      "Linux",
-      "Datadog",
-      "Prometheus",
-      "Grafana",
-      "OpenTelemetry",
-      "Incident Response",
-      "Secrets Management",
-      "SRE",
-      "FinTech",
-      "Security",
-      "Auditability"
-    ],
-    "title": "Infrastructure / DevOps / SRE Engineer",
-    "url": "https://wellfound.com/jobs/4505877-infrastructure-devops-sre-engineer-scarce-labs-inc"
   },
   {
     "company": "Upstart",
