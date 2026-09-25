@@ -123,16 +123,21 @@
         "date": "2026-09-04",
         "note": "Application submission explicitly confirmed by Zack. Resume used: /Users/zack/Desktop/claude/HomeWebsite/output/pdf/Platform Engineer.pdf",
         "status": "applied"
+      },
+      {
+        "date": "2026-09-19",
+        "status": "rejected",
+        "note": "Radar declined to move forward, per Zack’s email summary."
       }
     ],
     "id": "8e90f43aa2fa",
     "location": "",
-    "notes": "Application submission explicitly confirmed by Zack on 2026-09-04.",
+    "notes": "Application submission explicitly confirmed by Zack on 2026-09-04. Radar declined to move forward, per Zack’s email summary.",
     "priority": "medium",
     "resume": "/Users/zack/Desktop/claude/HomeWebsite/output/pdf/Platform Engineer.pdf",
     "salary": "",
     "source": "Ashby",
-    "status": "applied",
+    "status": "rejected",
     "tags": [],
     "title": "Senior / Staff Platform Engineer",
     "url": "https://jobs.ashbyhq.com/radar/ee0bf269-c286-4815-86d4-2b19d7b77448/application"
@@ -169,16 +174,21 @@
         "date": "2026-09-04",
         "note": "Application submission explicitly confirmed by Zack. Resume used: /Users/zack/Desktop/claude/HomeWebsite/output/pdf/Platform Engineer.pdf",
         "status": "applied"
+      },
+      {
+        "date": "2026-09-05",
+        "status": "rejected",
+        "note": "Honor moved forward with other candidates, per Zack’s email summary."
       }
     ],
     "id": "b27a36b9a4f2",
     "location": "",
-    "notes": "Application submission explicitly confirmed by Zack on 2026-09-04.",
+    "notes": "Application submission explicitly confirmed by Zack on 2026-09-04. Honor moved forward with other candidates, per Zack’s email summary.",
     "priority": "medium",
     "resume": "/Users/zack/Desktop/claude/HomeWebsite/output/pdf/Platform Engineer.pdf",
     "salary": "",
     "source": "Greenhouse",
-    "status": "applied",
+    "status": "rejected",
     "tags": [],
     "title": "Staff Platform Engineer - Infra + DevOps",
     "url": "https://job-boards.greenhouse.io/honor/jobs/8297124002"
@@ -220,18 +230,23 @@
         "date": "2026-09-03",
         "note": "Zack explicitly instructed that this application be marked Rejected.",
         "status": "rejected"
+      },
+      {
+        "date": "2026-09-04",
+        "status": "rejected",
+        "note": "Ramp rejection email for Software Engineer (Production Engineering), per Zack’s update. Prior Sep 3 user-directed closure preserved."
       }
     ],
     "id": "cda4982011be",
     "location": "",
-    "notes": "Ramp application identified by Courtney Chan’s 2026-08-27 recruiter/intro-call email. Exact role title was not present in repository data. Marked Rejected per Zack’s explicit instruction with outcome date 2026-09-03.",
+    "notes": "Ramp application identified by Courtney Chan’s 2026-08-27 recruiter/intro-call email. Exact role title was not present in repository data. Marked Rejected per Zack’s explicit instruction with outcome date 2026-09-03. Ramp rejection email for Software Engineer (Production Engineering), per Zack’s update. Prior Sep 3 user-directed closure preserved.",
     "priority": "medium",
     "resume": "",
     "salary": "",
     "source": "Direct recruiter email",
     "status": "rejected",
     "tags": [],
-    "title": "Application associated with Courtney Chan recruiter intro call",
+    "title": "Software Engineer (Production Engineering)",
     "url": ""
   },
   {
@@ -729,16 +744,21 @@
         "date": "2026-08-19",
         "note": "Zack explicitly confirmed the application was successfully submitted.",
         "status": "applied"
+      },
+      {
+        "date": "2026-09-25",
+        "status": "interviewing",
+        "note": "Zack reported advancing to the technical interview round; recorded on Sep 25, exact advancement date not specified."
       }
     ],
     "id": "lever-52ac5007-f02f-409e-a5a7-5768bcdd8af8",
     "location": "",
-    "notes": "Application submission explicitly confirmed by Zack in the job-tracker channel.",
+    "notes": "Application submission explicitly confirmed by Zack in the job-tracker channel. Zack reported advancing to the technical interview round; recorded on Sep 25, exact advancement date not specified.",
     "priority": "high",
     "resume": "versions/Platform Engineer/Senior Platform Engineer.docx",
     "salary": "",
     "source": "Lever",
-    "status": "applied",
+    "status": "interviewing",
     "tags": [],
     "title": "Senior Platform Engineer",
     "url": "https://jobs.lever.co/brightmachines/52ac5007-f02f-409e-a5a7-5768bcdd8af8"
@@ -1548,16 +1568,21 @@
         "date": "2026-08-13",
         "note": "Application submission explicitly confirmed and verified",
         "status": "applied"
+      },
+      {
+        "date": "2026-09-08",
+        "status": "rejected",
+        "note": "Not selected for Staff Software Engineer (Data Platform), per Zack’s email summary."
       }
     ],
     "id": "cd9907ca3405",
     "location": "",
-    "notes": "Application submission explicitly confirmed and verified.",
+    "notes": "Application submission explicitly confirmed and verified. Not selected for Staff Software Engineer (Data Platform), per Zack’s email summary.",
     "priority": "high",
     "resume": "",
     "salary": "",
     "source": "Wellfound",
-    "status": "applied",
+    "status": "rejected",
     "tags": [],
     "title": "Staff Software Engineer - Data Platform",
     "url": "https://wellfound.com/jobs/4452656-staff-software-engineer-data-platform"
@@ -1760,16 +1785,21 @@
         "date": "2026-08-13",
         "note": "Application submission explicitly confirmed and verified",
         "status": "applied"
+      },
+      {
+        "date": "2026-09-16",
+        "status": "rejected",
+        "note": "Postman declined to proceed with the Senior Backend Engineer application, per Zack’s email summary."
       }
     ],
     "id": "1e0419269a30",
     "location": "",
-    "notes": "Application submission explicitly confirmed and verified.",
+    "notes": "Application submission explicitly confirmed and verified. Postman declined to proceed with the Senior Backend Engineer application, per Zack’s email summary.",
     "priority": "high",
     "resume": "",
     "salary": "",
     "source": "Wellfound",
-    "status": "applied",
+    "status": "rejected",
     "tags": [],
     "title": "Senior Backend Engineer, Cloud Platform",
     "url": "https://wellfound.com/jobs/3476317-senior-backend-engineer-cloud-platform"
